@@ -172,7 +172,7 @@
       "tipo": "pratica",
       "titulo": "Practice",
       "sub": "Hora's dashboard for practice; your agent's for real.",
-      "fonte": "Lab piece: <a href=\"https://inematds.github.io/prof2030-lab/pecas/painel/\">Hora dashboard</a> (F11).",
+      "fonte": "Lab piece: <a href=\"https://linnoff88-dev.github.io/ dashboard</a> (F11).",
       "exercicios": [
         {
           "id": "e1",
@@ -282,17 +282,17 @@
       "links": [
         {
           "t": "Horizonte Lab: the panel without a baseline (F11)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/painel/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "grafico"
         },
         {
           "t": "G2 · Baseline and goal (the process indicators)",
-          "href": "https://inematds.github.io/gestao-ia-processos-v72/aulas/linha-de-base/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "alvo"
         },
         {
           "t": "G4 · What it costs to produce the outcome (the R$ 6.68 calculation)",
-          "href": "https://inematds.github.io/gestao-ia-recursos-v72/aulas/custo/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "grafico"
         }
       ]

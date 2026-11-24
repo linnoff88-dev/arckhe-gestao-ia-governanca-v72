@@ -270,7 +270,7 @@
           ],
           "exemplo": {
             "rot": "Reading",
-            "texto": "Anyone who needs AIGP or ISO/IEC 42001 for the job still needs them. The INEMA certification is a qualification."
+            "texto": "Anyone who needs AIGP or ISO/IEC 42001 for the job still needs them. The ARCKHÉ certification is a qualification."
           }
         },
         {
@@ -397,7 +397,7 @@
       "tipo": "pratica",
       "titulo": "Practice",
       "sub": "Horizonte in Gestoria to practice the rubric; your own process for real.",
-      "fonte": "<a href=\"https://inematds.github.io/gestoria/\">Open Gestoria</a> · <a href=\"https://inematds.github.io/gestoria/guia/\">Gestoria user guide</a>.",
+      "fonte": "<a href=\"https://linnoff88-dev.github.io/ Gestoria</a> · <a href=\"https://linnoff88-dev.github.io/ user guide</a>.",
       "exercicios": [
         {
           "id": "e1",
@@ -501,7 +501,7 @@
       "tipo": "texto",
       "titulo": "After the program: helping other companies",
       "paragrafos": [
-        "This program prepares people who manage agents inside the company. If what you want is to help other companies adopt AI safely, as a consultant, auditor, mentor or trainer, the next path is <a href=\"https://eventos.inema.pro/prof2030/\">Profissional 2030</a>, which uses the same Horizonte seen from the outside.",
+        "This program prepares people who manage agents inside the company. If what you want is to help other companies adopt AI safely, as a consultant, auditor, mentor or trainer, the next path is <a href=\"https://eventos.ARCKHÉ.pro/prof2030/\">Profissional 2030</a>, which uses the same Horizonte seen from the outside.",
         "The video below is optional: it shows why building agents stops being enough and what to learn to work as a consultant in 2027."
       ]
     },
@@ -515,7 +515,7 @@
       "tipo": "texto",
       "titulo": "Certification",
       "paragrafos": [
-        "INEMA qualification certification \"AI Manager\", coming soon at cert.inema.pro. It is not a regulated professional certification.",
+        "ARCKHÉ qualification certification \"AI Manager\", coming soon at cert.ARCKHÉ.pro. It is not a regulated professional certification.",
         "This is course G5, the closing of the AI Management Program 2027. The other courses cover the agentic company (G0), people (G1), processes (G2), agents (G3) and resources (G4). The final rubric in this lesson brings together everyone's deliverables."
       ]
     },
@@ -525,17 +525,17 @@
       "links": [
         {
           "t": "Gestoria: open the management lab",
-          "href": "https://inematds.github.io/gestoria/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         },
         {
           "t": "Gestoria: user guide, from the first process to documented improvement",
-          "href": "https://inematds.github.io/gestoria/guia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "arquivo"
         },
         {
           "t": "Profissional 2030: helping other companies adopt AI safely",
-          "href": "https://eventos.inema.pro/prof2030/",
+          "href": "https://eventos.ARCKHÉ.pro/prof2030/",
           "icone": "alvo"
         }
       ]

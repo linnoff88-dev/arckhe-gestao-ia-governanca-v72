@@ -161,7 +161,7 @@
       "tipo": "pratica",
       "titulo": "Practice",
       "sub": "Horizonte's matrix is the training; the one for your process is the one that counts.",
-      "fonte": "Lab pieces: <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">Hora's configuration</a>, <a href=\"https://inematds.github.io/prof2030-lab/pecas/mcp-email/\">email assistant</a> and <a href=\"https://inematds.github.io/prof2030-lab/inventario.html\">IT inventory</a> (F12).",
+      "fonte": "Lab pieces: <a href=\"https://linnoff88-dev.github.io/ configuration</a>, <a href=\"https://linnoff88-dev.github.io/ assistant</a> and <a href=\"https://linnoff88-dev.github.io/ inventory</a> (F12).",
       "exercicios": [
         {
           "id": "e1",
@@ -271,17 +271,17 @@
       "links": [
         {
           "t": "Accounting and finance notebook: whoever enters it does not approve it",
-          "href": "https://inematds.github.io/arquiteto-agentes-contabil/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "lista"
         },
         {
           "t": "Law notebook: the agent prepares, the lawyer signs",
-          "href": "https://inematds.github.io/arquiteto-agentes-advocacia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "arquivo"
         },
         {
           "t": "Health notebook: what stays out of the agent's reach",
-          "href": "https://inematds.github.io/arquiteto-agentes-saude/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "escudo"
         }
       ]

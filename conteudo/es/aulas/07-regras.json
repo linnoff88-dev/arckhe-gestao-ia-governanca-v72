@@ -60,7 +60,7 @@
           "detalhe": "Lo que un cliente grande pide antes de cualquier ley: cuestionario de proveedor sobre uso de IA, datos y controles. La norma ISO/IEC 42001 (sistema de gestión de IA) aparece en esos cuestionarios. Tener listas las piezas de esta formación acorta la respuesta."
         }
       ],
-      "legenda": "Hechos de regulación del panorama de mercado de octubre de 2026 (INEMA). Esto no es dictamen jurídico: ante la duda sobre tu obligación, quien decide es el área jurídica de la empresa."
+      "legenda": "Hechos de regulación del panorama de mercado de octubre de 2026 (ARCKHÉ). Esto no es dictamen jurídico: ante la duda sobre tu obligación, quien decide es el área jurídica de la empresa."
     },
     {
       "tipo": "passos",
@@ -156,7 +156,7 @@
       "tipo": "pratica",
       "titulo": "Práctica",
       "sub": "La línea de tiempo de Horizonte para practicar; la de tu área para que valga.",
-      "fonte": "Detalle de las reglas: <a href=\"https://inematds.github.io/prof2030-base/aulas/regras/\">Regras com data marcada</a>, en el Profissional 2030 Base.",
+      "fonte": "Detalle de las reglas: <a href=\"https://linnoff88-dev.github.io/ com data marcada</a>, en el Profissional 2030 Base.",
       "exercicios": [
         {
           "id": "e1",
@@ -243,17 +243,17 @@
       "links": [
         {
           "t": "Profesional 2030 Base: reglas con fecha marcada (EU AI Act, PL 2338, NIST, ISO 42001)",
-          "href": "https://inematds.github.io/prof2030-base/aulas/regras/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "calendario"
         },
         {
           "t": "Profesional 2030 Base: datos, LGPD y elección de proveedor",
-          "href": "https://inematds.github.io/prof2030-base/aulas/dados-lgpd/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "cadeado"
         },
         {
           "t": "Laboratorio Horizonte: resumen de atención (F10)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/resumo-atendimento/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "arquivo"
         }
       ]

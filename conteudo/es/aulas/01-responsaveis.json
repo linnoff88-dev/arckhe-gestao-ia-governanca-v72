@@ -161,7 +161,7 @@
       "tipo": "pratica",
       "titulo": "Práctica",
       "sub": "La matriz de Horizonte es el entrenamiento; la de tu proceso es la que vale.",
-      "fonte": "Piezas del laboratorio: <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">configuración de Hora</a>, <a href=\"https://inematds.github.io/prof2030-lab/pecas/mcp-email/\">asistente de correo</a> e <a href=\"https://inematds.github.io/prof2030-lab/inventario.html\">inventario de TI</a> (F12).",
+      "fonte": "Piezas del laboratorio: <a href=\"https://linnoff88-dev.github.io/ de Hora</a>, <a href=\"https://linnoff88-dev.github.io/ de correo</a> e <a href=\"https://linnoff88-dev.github.io/ de TI</a> (F12).",
       "exercicios": [
         {
           "id": "e1",
@@ -271,17 +271,17 @@
       "links": [
         {
           "t": "Cuaderno contable y financiero: quien registra no aprueba",
-          "href": "https://inematds.github.io/arquiteto-agentes-contabil/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "lista"
         },
         {
           "t": "Cuaderno de abogacía: el agente prepara, el abogado firma",
-          "href": "https://inematds.github.io/arquiteto-agentes-advocacia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "arquivo"
         },
         {
           "t": "Cuaderno de salud: lo que queda fuera del alcance del agente",
-          "href": "https://inematds.github.io/arquiteto-agentes-saude/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "escudo"
         }
       ]

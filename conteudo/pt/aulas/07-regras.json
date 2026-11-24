@@ -60,7 +60,7 @@
           "detalhe": "O que um cliente grande pede antes de qualquer lei: questionário de fornecedor sobre uso de IA, dados e controles. A norma ISO/IEC 42001 (sistema de gestão de IA) aparece nesses questionários. Ter as peças desta formação prontas encurta a resposta."
         }
       ],
-      "legenda": "Fatos de regulação do panorama de mercado de outubro de 2026 (INEMA). Isto não é parecer jurídico: na dúvida sobre a sua obrigação, quem decide é o jurídico da empresa."
+      "legenda": "Fatos de regulação do panorama de mercado de outubro de 2026 (ARCKHÉ). Isto não é parecer jurídico: na dúvida sobre a sua obrigação, quem decide é o jurídico da empresa."
     },
     {
       "tipo": "passos",
@@ -156,7 +156,7 @@
       "tipo": "pratica",
       "titulo": "Prática",
       "sub": "A linha do tempo da Horizonte para treinar; a da sua área para valer.",
-      "fonte": "Detalhe das regras: <a href=\"https://inematds.github.io/prof2030-base/aulas/regras/\">Regras com data marcada</a>, no Profissional 2030 Base.",
+      "fonte": "Detalhe das regras: <a href=\"https://linnoff88-dev.github.io/ com data marcada</a>, no Profissional 2030 Base.",
       "exercicios": [
         {
           "id": "e1",
@@ -243,17 +243,17 @@
       "links": [
         {
           "t": "Profissional 2030 Base: regras com data marcada (EU AI Act, PL 2338, NIST, ISO 42001)",
-          "href": "https://inematds.github.io/prof2030-base/aulas/regras/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "calendario"
         },
         {
           "t": "Profissional 2030 Base: dados, LGPD e escolha de fornecedor",
-          "href": "https://inematds.github.io/prof2030-base/aulas/dados-lgpd/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "cadeado"
         },
         {
           "t": "Laboratório Horizonte: resumo de atendimento (F10)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/resumo-atendimento/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "arquivo"
         }
       ]

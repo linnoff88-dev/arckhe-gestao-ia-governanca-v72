@@ -176,7 +176,7 @@
       "tipo": "pratica",
       "titulo": "Practice",
       "sub": "Complete the Hora set to practice; build the one for your process for real.",
-      "fonte": "Lab conversations to draw cases from: <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">WhatsApp agent</a> (c-201 to c-203).",
+      "fonte": "Lab conversations to draw cases from: <a href=\"https://linnoff88-dev.github.io/ agent</a> (c-201 to c-203).",
       "exercicios": [
         {
           "id": "e1",
@@ -286,17 +286,17 @@
       "links": [
         {
           "t": "LOOP-R: user guide (measurement, yes-or-no rubric, guardrails)",
-          "href": "https://inematds.github.io/loop-r/guia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "lupa"
         },
         {
           "t": "Gestoria: log evaluations and check the promotion criterion",
-          "href": "https://inematds.github.io/gestoria/guia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "check"
         },
         {
           "t": "G4 · Choose a model for the job (the 20 comparison cases)",
-          "href": "https://inematds.github.io/gestao-ia-recursos-v72/aulas/modelo/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         }
       ]

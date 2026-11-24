@@ -172,7 +172,7 @@
       "tipo": "pratica",
       "titulo": "Práctica",
       "sub": "El panel de Hora para practicar; el de tu agente para valer.",
-      "fonte": "Pieza del laboratorio: <a href=\"https://inematds.github.io/prof2030-lab/pecas/painel/\">panel de Hora</a> (F11).",
+      "fonte": "Pieza del laboratorio: <a href=\"https://linnoff88-dev.github.io/ de Hora</a> (F11).",
       "exercicios": [
         {
           "id": "e1",
@@ -282,17 +282,17 @@
       "links": [
         {
           "t": "Laboratorio Horizonte: el panel sin línea de base (F11)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/painel/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "grafico"
         },
         {
           "t": "G2 · Línea de base y meta (los indicadores del proceso)",
-          "href": "https://inematds.github.io/gestao-ia-processos-v72/aulas/linha-de-base/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "alvo"
         },
         {
           "t": "G4 · Cuánto cuesta producir el resultado (la cuenta de los R$ 6,68)",
-          "href": "https://inematds.github.io/gestao-ia-recursos-v72/aulas/custo/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "grafico"
         }
       ]

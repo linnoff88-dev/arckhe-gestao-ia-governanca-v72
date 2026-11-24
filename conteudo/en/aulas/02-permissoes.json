@@ -161,7 +161,7 @@
       "tipo": "pratica",
       "titulo": "Practice",
       "sub": "The Hora checklist uses the lab files; the one for your agent uses yours.",
-      "fonte": "Lab pieces: <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">Hora configuration</a> and <a href=\"https://inematds.github.io/prof2030-lab/pecas/mcp-email/\">email assistant</a>. Technical risks and LGPD: <a href=\"https://inematds.github.io/prof2030-base/aulas/riscos/\">risks lesson</a> and <a href=\"https://inematds.github.io/prof2030-base/aulas/dados-lgpd/\">data and LGPD lesson</a> from Profissional 2030 Base.",
+      "fonte": "Lab pieces: <a href=\"https://linnoff88-dev.github.io/ configuration</a> and <a href=\"https://linnoff88-dev.github.io/ assistant</a>. Technical risks and LGPD: <a href=\"https://linnoff88-dev.github.io/ lesson</a> and <a href=\"https://linnoff88-dev.github.io/ and LGPD lesson</a> from Profissional 2030 Base.",
       "exercicios": [
         {
           "id": "e1",
@@ -260,17 +260,17 @@
       "links": [
         {
           "t": "Profissional 2030 Base: the risks that sink projects (exposed key, injection, too many permissions)",
-          "href": "https://inematds.github.io/prof2030-base/aulas/riscos/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "escudo"
         },
         {
           "t": "Profissional 2030 Base: data, LGPD, and vendor choice",
-          "href": "https://inematds.github.io/prof2030-base/aulas/dados-lgpd/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "cadeado"
         },
         {
           "t": "Horizonte Lab: email assistant (F9)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/mcp-email/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "enviar"
         }
       ]

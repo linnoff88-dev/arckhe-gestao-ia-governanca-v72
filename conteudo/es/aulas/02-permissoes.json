@@ -161,7 +161,7 @@
       "tipo": "pratica",
       "titulo": "Práctica",
       "sub": "El checklist de la Hora usa los archivos del laboratorio; el de tu agente usa los tuyos.",
-      "fonte": "Piezas del laboratorio: <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">configuración de la Hora</a> y <a href=\"https://inematds.github.io/prof2030-lab/pecas/mcp-email/\">asistente de correo</a>. Riesgos técnicos y LGPD: <a href=\"https://inematds.github.io/prof2030-base/aulas/riscos/\">clase de riesgos</a> y <a href=\"https://inematds.github.io/prof2030-base/aulas/dados-lgpd/\">clase de datos y LGPD</a> del Profissional 2030 Base.",
+      "fonte": "Piezas del laboratorio: <a href=\"https://linnoff88-dev.github.io/ de la Hora</a> y <a href=\"https://linnoff88-dev.github.io/ de correo</a>. Riesgos técnicos y LGPD: <a href=\"https://linnoff88-dev.github.io/ de riesgos</a> y <a href=\"https://linnoff88-dev.github.io/ de datos y LGPD</a> del Profissional 2030 Base.",
       "exercicios": [
         {
           "id": "e1",
@@ -260,17 +260,17 @@
       "links": [
         {
           "t": "Profesional 2030 Base: los riesgos que hunden proyectos (clave expuesta, inyección, exceso de permisos)",
-          "href": "https://inematds.github.io/prof2030-base/aulas/riscos/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "escudo"
         },
         {
           "t": "Profesional 2030 Base: datos, LGPD y elección de proveedor",
-          "href": "https://inematds.github.io/prof2030-base/aulas/dados-lgpd/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "cadeado"
         },
         {
           "t": "Laboratorio Horizonte: asistente de correo (F9)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/mcp-email/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "enviar"
         }
       ]

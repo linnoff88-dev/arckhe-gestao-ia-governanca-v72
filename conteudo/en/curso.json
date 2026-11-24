@@ -1,107 +1,107 @@
 {
   "id": "gestao-ia-governanca-v72",
   "lang": "en",
-  "url": "https://inematds.github.io/gestao-ia-governanca-v72/en/",
+  "url": "https://linnoff88-dev.github.io/
   "nome": "Govern, measure and evolve",
   "sub": "AI Management Program 2027 · G5",
   "volta": {
     "t": "AI Management Area",
-    "href": "https://eventos.inema.pro/gestao-ia/"
+    "href": "https://eventos.ARCKHÉ.pro/gestao-ia/"
   },
   "lado_card": {
     "rot": "AI Management Program 2027 · G5",
     "t": "Start at the front door",
     "texto": "G0 shows the agentic company and the role of the 2027 manager. The other courses in the program build on it, and this one closes the program with the final project.",
     "link": "Go to G0",
-    "href": "https://inematds.github.io/gestao-ia-base-v72/"
+    "href": "https://linnoff88-dev.github.io/
   },
-  "rodape": "INEMA.CLUB · open and free content · INEMA Learning v7.2 format · <a href=\"https://eventos.inema.pro/gestao-ia/\">eventos.inema.pro/gestao-ia</a> · <a href=\"https://inematds.github.io/prof2030-lab/\">Horizonte lab (fictional study company)</a> · <a href=\"https://inematds.github.io/gestoria/\">Gestoria</a> · <a href=\"https://inema.club/\">inema.club</a>",
+  "rodape": "ARCKHÉ AI · open and free content · ARCKHÉ Learning v7.2 format · <a href=\"https://eventos.ARCKHÉ.pro/gestao-ia/\">eventos.ARCKHÉ.pro/gestao-ia</a> · <a href=\"https://linnoff88-dev.github.io/ lab (fictional study company)</a> · <a href=\"https://linnoff88-dev.github.io/ · <a href=\"https://ARCKHÉ AI/\">ARCKHÉ AI</a>",
   "videos": {
     "loop-r-t1": {
       "titulo": "LOOP-R · Track 1: Why your company doesn't get better",
       "duracao": "17 min 50 s",
-      "mp4": "https://github.com/inematds/loop-r/releases/download/video-v2.0.0/loop-r-t1-pt.mp4",
+      "mp4": "https://github.com/linnoff88-dev/loop-r/releases/download/video-v2.0.0/loop-r-t1-pt.mp4",
       "vtt": "assets/vtt/loop-r-t1.vtt",
       "poster": "assets/img/loop-r-t1.jpg",
-      "pagina": "https://inematds.github.io/loop-r/videos/",
+      "pagina": "https://linnoff88-dev.github.io/
       "idiomas": {
         "en": {
-          "mp4": "https://github.com/inematds/loop-r/releases/download/video-v2.0.0/loop-r-t1-en-en.mp4",
+          "mp4": "https://github.com/linnoff88-dev/loop-r/releases/download/video-v2.0.0/loop-r-t1-en-en.mp4",
           "vtt": "assets/vtt/loop-r-t1-en.vtt",
           "duracao": "18 min 23 s",
-          "pagina": "https://inematds.github.io/loop-r/videos/en.html"
+          "pagina": "https://linnoff88-dev.github.io/
         },
         "es": {
-          "mp4": "https://github.com/inematds/loop-r/releases/download/video-v2.0.0/loop-r-t1-es-es.mp4",
+          "mp4": "https://github.com/linnoff88-dev/loop-r/releases/download/video-v2.0.0/loop-r-t1-es-es.mp4",
           "vtt": "assets/vtt/loop-r-t1-es.vtt",
           "duracao": "16 min 16 s",
-          "pagina": "https://inematds.github.io/loop-r/videos/es.html"
+          "pagina": "https://linnoff88-dev.github.io/
         }
       }
     },
     "loop-r-t2": {
       "titulo": "LOOP-R · Track 2: The method",
       "duracao": "17 min 02 s",
-      "mp4": "https://github.com/inematds/loop-r/releases/download/video-v2.0.0/loop-r-t2-pt.mp4",
+      "mp4": "https://github.com/linnoff88-dev/loop-r/releases/download/video-v2.0.0/loop-r-t2-pt.mp4",
       "vtt": "assets/vtt/loop-r-t2.vtt",
       "poster": "assets/img/loop-r-t2.jpg",
-      "pagina": "https://inematds.github.io/loop-r/videos/",
+      "pagina": "https://linnoff88-dev.github.io/
       "idiomas": {
         "en": {
-          "mp4": "https://github.com/inematds/loop-r/releases/download/video-v2.0.0/loop-r-t2-en-en.mp4",
+          "mp4": "https://github.com/linnoff88-dev/loop-r/releases/download/video-v2.0.0/loop-r-t2-en-en.mp4",
           "vtt": "assets/vtt/loop-r-t2-en.vtt",
           "duracao": "17 min 43 s",
-          "pagina": "https://inematds.github.io/loop-r/videos/en.html"
+          "pagina": "https://linnoff88-dev.github.io/
         },
         "es": {
-          "mp4": "https://github.com/inematds/loop-r/releases/download/video-v2.0.0/loop-r-t2-es-es.mp4",
+          "mp4": "https://github.com/linnoff88-dev/loop-r/releases/download/video-v2.0.0/loop-r-t2-es-es.mp4",
           "vtt": "assets/vtt/loop-r-t2-es.vtt",
           "duracao": "15 min 43 s",
-          "pagina": "https://inematds.github.io/loop-r/videos/es.html"
+          "pagina": "https://linnoff88-dev.github.io/
         }
       }
     },
     "loop-r-t3": {
       "titulo": "LOOP-R · Track 3: The loop's assistants",
       "duracao": "17 min 20 s",
-      "mp4": "https://github.com/inematds/loop-r/releases/download/video-v2.0.0/loop-r-t3-pt.mp4",
+      "mp4": "https://github.com/linnoff88-dev/loop-r/releases/download/video-v2.0.0/loop-r-t3-pt.mp4",
       "vtt": "assets/vtt/loop-r-t3.vtt",
       "poster": "assets/img/loop-r-t3.jpg",
-      "pagina": "https://inematds.github.io/loop-r/videos/",
+      "pagina": "https://linnoff88-dev.github.io/
       "idiomas": {
         "en": {
-          "mp4": "https://github.com/inematds/loop-r/releases/download/video-v2.0.0/loop-r-t3-en-en.mp4",
+          "mp4": "https://github.com/linnoff88-dev/loop-r/releases/download/video-v2.0.0/loop-r-t3-en-en.mp4",
           "vtt": "assets/vtt/loop-r-t3-en.vtt",
           "duracao": "17 min 48 s",
-          "pagina": "https://inematds.github.io/loop-r/videos/en.html"
+          "pagina": "https://linnoff88-dev.github.io/
         },
         "es": {
-          "mp4": "https://github.com/inematds/loop-r/releases/download/video-v2.0.0/loop-r-t3-es-es.mp4",
+          "mp4": "https://github.com/linnoff88-dev/loop-r/releases/download/video-v2.0.0/loop-r-t3-es-es.mp4",
           "vtt": "assets/vtt/loop-r-t3-es.vtt",
           "duracao": "15 min 39 s",
-          "pagina": "https://inematds.github.io/loop-r/videos/es.html"
+          "pagina": "https://linnoff88-dev.github.io/
         }
       }
     },
     "consultor-ia-2027": {
       "titulo": "From builder to consultant: what to learn for 2027",
       "duracao": "5 min 02 s",
-      "mp4": "https://github.com/inematds/consultor-ia-2027/releases/download/video-v2.0.0/consultor-ia-2027-completo-16x9.mp4",
+      "mp4": "https://github.com/linnoff88-dev/consultor-ia-2027/releases/download/video-v2.0.0/consultor-ia-2027-completo-16x9.mp4",
       "vtt": "assets/vtt/consultor-ia-2027.vtt",
       "poster": "assets/img/consultor-ia-2027.jpg",
-      "pagina": "https://inematds.github.io/consultor-ia-2027/videos/",
+      "pagina": "https://linnoff88-dev.github.io/
       "idiomas": {
         "en": {
-          "mp4": "https://github.com/inematds/consultor-ia-2027/releases/download/video-v2.0.0/consultor-ia-2027-completo-16x9-en.mp4",
+          "mp4": "https://github.com/linnoff88-dev/consultor-ia-2027/releases/download/video-v2.0.0/consultor-ia-2027-completo-16x9-en.mp4",
           "vtt": "assets/vtt/consultor-ia-2027-en.vtt",
           "duracao": "3 min 41 s",
-          "pagina": "https://inematds.github.io/consultor-ia-2027/videos/en/"
+          "pagina": "https://linnoff88-dev.github.io/
         },
         "es": {
-          "mp4": "https://github.com/inematds/consultor-ia-2027/releases/download/video-v2.0.0/consultor-ia-2027-completo-16x9-es.mp4",
+          "mp4": "https://github.com/linnoff88-dev/consultor-ia-2027/releases/download/video-v2.0.0/consultor-ia-2027-completo-16x9-es.mp4",
           "vtt": "assets/vtt/consultor-ia-2027-es.vtt",
           "duracao": "4 min 03 s",
-          "pagina": "https://inematds.github.io/consultor-ia-2027/videos/es/"
+          "pagina": "https://linnoff88-dev.github.io/
         }
       }
     }
@@ -113,7 +113,7 @@
     "cta": "Start with lesson 1",
     "cta2": {
       "t": "See the AI Management Area",
-      "href": "https://eventos.inema.pro/gestao-ia/"
+      "href": "https://eventos.ARCKHÉ.pro/gestao-ia/"
     },
     "capa_alt": "The sales manager and the owner of a distributor look together at a panel of five indicators on the wall; in the background, through the glass, the stock of jugs of cleaning products.",
     "numeros": [
@@ -145,7 +145,7 @@
           "rot": "G0 · entry point · published",
           "t": "The agentic company and the 2027 manager",
           "l": "What changed in management, what the consultancies say, Brazil, the career, and your first process.",
-          "href": "https://inematds.github.io/gestao-ia-base-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/g0.jpg"
         },
@@ -153,7 +153,7 @@
           "rot": "G2 · processes · published",
           "t": "Processes: a process isn't sacred",
           "l": "Take the process apart before automating it: eliminate, simplify, redesign, and decide who does each step.",
-          "href": "https://inematds.github.io/gestao-ia-processos-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/g2.jpg"
         },
@@ -161,7 +161,7 @@
           "rot": "G3 · agents · published",
           "t": "Agents: hire, delegate, and supervise",
           "l": "Job role, delegation, constitution, authority limit, progressive trust, agent team, and exception queue.",
-          "href": "https://inematds.github.io/gestao-ia-agentes-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/g3.jpg"
         },
@@ -169,7 +169,7 @@
           "rot": "G4 · resources · published",
           "t": "Resources: models, data, and budget",
           "l": "Choose a model for each case, take care of context and company knowledge, and measure cost per outcome.",
-          "href": "https://inematds.github.io/gestao-ia-recursos-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/g4.jpg"
         },
@@ -177,7 +177,7 @@
           "rot": "G1 · people · published",
           "t": "People: lead the hybrid team",
           "l": "What stays with people, the conversation about change, the junior who supervises agents, and team training.",
-          "href": "https://inematds.github.io/gestao-ia-pessoas-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/g1.jpg"
         },
@@ -185,7 +185,7 @@
           "rot": "G5 · wrap-up · you are here",
           "t": "Govern, measure and evolve",
           "l": "Accountable people, permissions, and log; evaluation and indicators; a LOOP-R cycle with a rollback and the final project in Gestoria.",
-          "href": "https://inematds.github.io/gestao-ia-governanca-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/g5.jpg"
         }
@@ -212,7 +212,7 @@
       {
         "t": "The case that runs through the course",
         "itens": [
-          "<b>Horizonte Distribuidora</b>, a 40-person <a href=\"https://inematds.github.io/prof2030-lab/\">fictional study company</a> that distributes cleaning products in the interior of São Paulo.",
+          "<b>Horizonte Distribuidora</b>, a 40-person <a href=\"https://linnoff88-dev.github.io/ study company</a> that distributes cleaning products in the interior of São Paulo.",
           "You play <b>Patrícia Lima, sales manager</b>, who is responsible for <b>Hora</b>, the agent that sells over WhatsApp. Carlos, the owner, wants to extend Hora to collections; you ask that the decision wait until the operation is governed and measured.",
           "The lab's failures become management problems: an agent with IT as the accountable person, the log turned off, a tool switched on with a \"go ahead\" on WhatsApp, and a dashboard without a baseline."
         ]

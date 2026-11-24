@@ -1,107 +1,107 @@
 {
   "id": "gestao-ia-governanca-v72",
   "lang": "pt-BR",
-  "url": "https://inematds.github.io/gestao-ia-governanca-v72/",
+  "url": "https://linnoff88-dev.github.io/
   "nome": "Governar, medir e evoluir",
   "sub": "Formação Gestão de IA 2027 · G5",
   "volta": {
     "t": "Área Gestão de IA",
-    "href": "https://eventos.inema.pro/gestao-ia/"
+    "href": "https://eventos.ARCKHÉ.pro/gestao-ia/"
   },
   "lado_card": {
     "rot": "Formação Gestão de IA 2027 · G5",
     "t": "Comece pela porta de entrada",
     "texto": "O G0 mostra a empresa agêntica e o papel do gestor de 2027. Os outros cursos da formação partem dele, e este fecha a formação com o projeto final.",
     "link": "Ir para o G0",
-    "href": "https://inematds.github.io/gestao-ia-base-v72/"
+    "href": "https://linnoff88-dev.github.io/
   },
-  "rodape": "INEMA.CLUB · conteúdo aberto e gratuito · formato INEMA Learning v7.2 · <a href=\"https://eventos.inema.pro/gestao-ia/\">eventos.inema.pro/gestao-ia</a> · <a href=\"https://inematds.github.io/prof2030-lab/\">laboratório Horizonte (empresa fictícia de estudo)</a> · <a href=\"https://inematds.github.io/gestoria/\">Gestoria</a> · <a href=\"https://inema.club/\">inema.club</a>",
+  "rodape": "ARCKHÉ AI · conteúdo aberto e gratuito · formato ARCKHÉ Learning v7.2 · <a href=\"https://eventos.ARCKHÉ.pro/gestao-ia/\">eventos.ARCKHÉ.pro/gestao-ia</a> · <a href=\"https://linnoff88-dev.github.io/ Horizonte (empresa fictícia de estudo)</a> · <a href=\"https://linnoff88-dev.github.io/ · <a href=\"https://ARCKHÉ AI/\">ARCKHÉ AI</a>",
   "videos": {
     "loop-r-t1": {
       "titulo": "LOOP-R · Trilha 1: Por que sua empresa não melhora",
       "duracao": "17 min 50 s",
-      "mp4": "https://github.com/inematds/loop-r/releases/download/video-v2.0.0/loop-r-t1-pt.mp4",
+      "mp4": "https://github.com/linnoff88-dev/loop-r/releases/download/video-v2.0.0/loop-r-t1-pt.mp4",
       "vtt": "assets/vtt/loop-r-t1.vtt",
       "poster": "assets/img/loop-r-t1.jpg",
-      "pagina": "https://inematds.github.io/loop-r/videos/",
+      "pagina": "https://linnoff88-dev.github.io/
       "idiomas": {
         "en": {
-          "mp4": "https://github.com/inematds/loop-r/releases/download/video-v2.0.0/loop-r-t1-en-en.mp4",
+          "mp4": "https://github.com/linnoff88-dev/loop-r/releases/download/video-v2.0.0/loop-r-t1-en-en.mp4",
           "vtt": "assets/vtt/loop-r-t1-en.vtt",
           "duracao": "18 min 23 s",
-          "pagina": "https://inematds.github.io/loop-r/videos/en.html"
+          "pagina": "https://linnoff88-dev.github.io/
         },
         "es": {
-          "mp4": "https://github.com/inematds/loop-r/releases/download/video-v2.0.0/loop-r-t1-es-es.mp4",
+          "mp4": "https://github.com/linnoff88-dev/loop-r/releases/download/video-v2.0.0/loop-r-t1-es-es.mp4",
           "vtt": "assets/vtt/loop-r-t1-es.vtt",
           "duracao": "16 min 16 s",
-          "pagina": "https://inematds.github.io/loop-r/videos/es.html"
+          "pagina": "https://linnoff88-dev.github.io/
         }
       }
     },
     "loop-r-t2": {
       "titulo": "LOOP-R · Trilha 2: O método",
       "duracao": "17 min 02 s",
-      "mp4": "https://github.com/inematds/loop-r/releases/download/video-v2.0.0/loop-r-t2-pt.mp4",
+      "mp4": "https://github.com/linnoff88-dev/loop-r/releases/download/video-v2.0.0/loop-r-t2-pt.mp4",
       "vtt": "assets/vtt/loop-r-t2.vtt",
       "poster": "assets/img/loop-r-t2.jpg",
-      "pagina": "https://inematds.github.io/loop-r/videos/",
+      "pagina": "https://linnoff88-dev.github.io/
       "idiomas": {
         "en": {
-          "mp4": "https://github.com/inematds/loop-r/releases/download/video-v2.0.0/loop-r-t2-en-en.mp4",
+          "mp4": "https://github.com/linnoff88-dev/loop-r/releases/download/video-v2.0.0/loop-r-t2-en-en.mp4",
           "vtt": "assets/vtt/loop-r-t2-en.vtt",
           "duracao": "17 min 43 s",
-          "pagina": "https://inematds.github.io/loop-r/videos/en.html"
+          "pagina": "https://linnoff88-dev.github.io/
         },
         "es": {
-          "mp4": "https://github.com/inematds/loop-r/releases/download/video-v2.0.0/loop-r-t2-es-es.mp4",
+          "mp4": "https://github.com/linnoff88-dev/loop-r/releases/download/video-v2.0.0/loop-r-t2-es-es.mp4",
           "vtt": "assets/vtt/loop-r-t2-es.vtt",
           "duracao": "15 min 43 s",
-          "pagina": "https://inematds.github.io/loop-r/videos/es.html"
+          "pagina": "https://linnoff88-dev.github.io/
         }
       }
     },
     "loop-r-t3": {
       "titulo": "LOOP-R · Trilha 3: Os assistentes do loop",
       "duracao": "17 min 20 s",
-      "mp4": "https://github.com/inematds/loop-r/releases/download/video-v2.0.0/loop-r-t3-pt.mp4",
+      "mp4": "https://github.com/linnoff88-dev/loop-r/releases/download/video-v2.0.0/loop-r-t3-pt.mp4",
       "vtt": "assets/vtt/loop-r-t3.vtt",
       "poster": "assets/img/loop-r-t3.jpg",
-      "pagina": "https://inematds.github.io/loop-r/videos/",
+      "pagina": "https://linnoff88-dev.github.io/
       "idiomas": {
         "en": {
-          "mp4": "https://github.com/inematds/loop-r/releases/download/video-v2.0.0/loop-r-t3-en-en.mp4",
+          "mp4": "https://github.com/linnoff88-dev/loop-r/releases/download/video-v2.0.0/loop-r-t3-en-en.mp4",
           "vtt": "assets/vtt/loop-r-t3-en.vtt",
           "duracao": "17 min 48 s",
-          "pagina": "https://inematds.github.io/loop-r/videos/en.html"
+          "pagina": "https://linnoff88-dev.github.io/
         },
         "es": {
-          "mp4": "https://github.com/inematds/loop-r/releases/download/video-v2.0.0/loop-r-t3-es-es.mp4",
+          "mp4": "https://github.com/linnoff88-dev/loop-r/releases/download/video-v2.0.0/loop-r-t3-es-es.mp4",
           "vtt": "assets/vtt/loop-r-t3-es.vtt",
           "duracao": "15 min 39 s",
-          "pagina": "https://inematds.github.io/loop-r/videos/es.html"
+          "pagina": "https://linnoff88-dev.github.io/
         }
       }
     },
     "consultor-ia-2027": {
       "titulo": "De construtor a consultor: o que aprender para 2027",
       "duracao": "5 min 02 s",
-      "mp4": "https://github.com/inematds/consultor-ia-2027/releases/download/video-v2.0.0/consultor-ia-2027-completo-16x9.mp4",
+      "mp4": "https://github.com/linnoff88-dev/consultor-ia-2027/releases/download/video-v2.0.0/consultor-ia-2027-completo-16x9.mp4",
       "vtt": "assets/vtt/consultor-ia-2027.vtt",
       "poster": "assets/img/consultor-ia-2027.jpg",
-      "pagina": "https://inematds.github.io/consultor-ia-2027/videos/",
+      "pagina": "https://linnoff88-dev.github.io/
       "idiomas": {
         "en": {
-          "mp4": "https://github.com/inematds/consultor-ia-2027/releases/download/video-v2.0.0/consultor-ia-2027-completo-16x9-en.mp4",
+          "mp4": "https://github.com/linnoff88-dev/consultor-ia-2027/releases/download/video-v2.0.0/consultor-ia-2027-completo-16x9-en.mp4",
           "vtt": "assets/vtt/consultor-ia-2027-en.vtt",
           "duracao": "3 min 41 s",
-          "pagina": "https://inematds.github.io/consultor-ia-2027/videos/en/"
+          "pagina": "https://linnoff88-dev.github.io/
         },
         "es": {
-          "mp4": "https://github.com/inematds/consultor-ia-2027/releases/download/video-v2.0.0/consultor-ia-2027-completo-16x9-es.mp4",
+          "mp4": "https://github.com/linnoff88-dev/consultor-ia-2027/releases/download/video-v2.0.0/consultor-ia-2027-completo-16x9-es.mp4",
           "vtt": "assets/vtt/consultor-ia-2027-es.vtt",
           "duracao": "4 min 03 s",
-          "pagina": "https://inematds.github.io/consultor-ia-2027/videos/es/"
+          "pagina": "https://linnoff88-dev.github.io/
         }
       }
     }
@@ -113,7 +113,7 @@
     "cta": "Começar pela aula 1",
     "cta2": {
       "t": "Ver a área Gestão de IA",
-      "href": "https://eventos.inema.pro/gestao-ia/"
+      "href": "https://eventos.ARCKHÉ.pro/gestao-ia/"
     },
     "capa_alt": "A gerente comercial e o dono de uma distribuidora olham juntos um painel de cinco indicadores na parede; ao fundo, pelo vidro, o estoque de galões de produtos de limpeza.",
     "numeros": [
@@ -145,7 +145,7 @@
           "rot": "G0 · porta de entrada · publicado",
           "t": "A empresa agêntica e o gestor de 2027",
           "l": "O que mudou na gestão, o que dizem as consultorias, o Brasil, a carreira e o seu primeiro processo.",
-          "href": "https://inematds.github.io/gestao-ia-base-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/g0.jpg"
         },
@@ -153,7 +153,7 @@
           "rot": "G2 · processos · publicado",
           "t": "Processos: processo não é sagrado",
           "l": "Desmontar o processo antes de automatizar: eliminar, simplificar, redesenhar e decidir quem faz cada etapa.",
-          "href": "https://inematds.github.io/gestao-ia-processos-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/g2.jpg"
         },
@@ -161,7 +161,7 @@
           "rot": "G3 · agentes · publicado",
           "t": "Agentes: contratar, delegar e supervisionar",
           "l": "Cargo, delegação, constituição, alçada, confiança progressiva, equipe de agentes e fila de exceções.",
-          "href": "https://inematds.github.io/gestao-ia-agentes-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/g3.jpg"
         },
@@ -169,7 +169,7 @@
           "rot": "G4 · recursos · publicado",
           "t": "Recursos: modelos, dados e orçamento",
           "l": "Escolher modelo por caso, cuidar do contexto e do conhecimento da empresa e medir o custo por resultado.",
-          "href": "https://inematds.github.io/gestao-ia-recursos-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/g4.jpg"
         },
@@ -177,7 +177,7 @@
           "rot": "G1 · pessoas · publicado",
           "t": "Pessoas: liderar a equipe híbrida",
           "l": "O que fica com as pessoas, a conversa sobre mudança, o júnior que supervisiona agentes e a formação da equipe.",
-          "href": "https://inematds.github.io/gestao-ia-pessoas-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/g1.jpg"
         },
@@ -185,7 +185,7 @@
           "rot": "G5 · fechamento · você está aqui",
           "t": "Governar, medir e evoluir",
           "l": "Responsáveis, permissões e registro; avaliação e indicadores; um ciclo LOOP-R com volta e o projeto final no Gestoria.",
-          "href": "https://inematds.github.io/gestao-ia-governanca-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/g5.jpg"
         }
@@ -212,7 +212,7 @@
       {
         "t": "O caso que atravessa o curso",
         "itens": [
-          "A <b>Horizonte Distribuidora</b>, <a href=\"https://inematds.github.io/prof2030-lab/\">empresa fictícia de estudo</a> de 40 pessoas que distribui produtos de limpeza no interior de São Paulo.",
+          "A <b>Horizonte Distribuidora</b>, <a href=\"https://linnoff88-dev.github.io/ fictícia de estudo</a> de 40 pessoas que distribui produtos de limpeza no interior de São Paulo.",
           "Você faz o papel da <b>Patrícia Lima, gerente comercial</b>, responsável pela <b>Hora</b>, o agente que vende pelo WhatsApp. O Carlos, dono, quer ampliar a Hora para a cobrança; você pede que a decisão espere a operação estar governada e medida.",
           "As falhas do laboratório viram problemas de gestão: agente com a TI como responsável, registro desligado, ferramenta ligada com um \"pode ligar\" no WhatsApp e um painel sem linha de base."
         ]

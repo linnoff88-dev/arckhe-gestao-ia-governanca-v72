@@ -60,7 +60,7 @@
           "detalhe": "What a large customer asks for before any law does: a supplier questionnaire about AI use, data and controls. The ISO/IEC 42001 standard (AI management system) shows up in these questionnaires. Having the pieces from this program ready shortens your answer."
         }
       ],
-      "legenda": "Regulation facts from the October 2026 market overview (INEMA). This is not legal advice: if you are unsure about your obligation, the company's legal team decides."
+      "legenda": "Regulation facts from the October 2026 market overview (ARCKHÉ). This is not legal advice: if you are unsure about your obligation, the company's legal team decides."
     },
     {
       "tipo": "passos",
@@ -156,7 +156,7 @@
       "tipo": "pratica",
       "titulo": "Practice",
       "sub": "Horizonte's timeline is for practice; your area's is for real.",
-      "fonte": "Rule details: <a href=\"https://inematds.github.io/prof2030-base/aulas/regras/\">Rules with set dates</a>, in Professional 2030 Base.",
+      "fonte": "Rule details: <a href=\"https://linnoff88-dev.github.io/ with set dates</a>, in Professional 2030 Base.",
       "exercicios": [
         {
           "id": "e1",
@@ -243,17 +243,17 @@
       "links": [
         {
           "t": "Professional 2030 Base: rules with set dates (EU AI Act, PL 2338, NIST, ISO 42001)",
-          "href": "https://inematds.github.io/prof2030-base/aulas/regras/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "calendario"
         },
         {
           "t": "Profissional 2030 Base: data, LGPD, and vendor choice",
-          "href": "https://inematds.github.io/prof2030-base/aulas/dados-lgpd/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "cadeado"
         },
         {
           "t": "Horizonte Lab: service summary (F10)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/resumo-atendimento/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "arquivo"
         }
       ]

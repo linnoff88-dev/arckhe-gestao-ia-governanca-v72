@@ -270,7 +270,7 @@
           ],
           "exemplo": {
             "rot": "Lectura",
-            "texto": "Quien necesite AIGP o ISO/IEC 42001 para el cargo sigue necesitándolas. La certificación INEMA es de calificación."
+            "texto": "Quien necesite AIGP o ISO/IEC 42001 para el cargo sigue necesitándolas. La certificación ARCKHÉ es de calificación."
           }
         },
         {
@@ -397,7 +397,7 @@
       "tipo": "pratica",
       "titulo": "Práctica",
       "sub": "La Horizonte en Gestoria para entrenar la rúbrica; tu proceso para valer.",
-      "fonte": "<a href=\"https://inematds.github.io/gestoria/\">Abrir Gestoria</a> · <a href=\"https://inematds.github.io/gestoria/guia/\">guía de uso de Gestoria</a>.",
+      "fonte": "<a href=\"https://linnoff88-dev.github.io/ Gestoria</a> · <a href=\"https://linnoff88-dev.github.io/ de uso de Gestoria</a>.",
       "exercicios": [
         {
           "id": "e1",
@@ -501,7 +501,7 @@
       "tipo": "texto",
       "titulo": "Después de la formación: ayudar a otras empresas",
       "paragrafos": [
-        "Esta formación prepara a quien administra agentes dentro de la empresa. Si lo que quieres es ayudar a otras empresas a adoptar IA con seguridad, como consultor, auditor, mentor o entrenador, el camino siguiente es el <a href=\"https://eventos.inema.pro/prof2030/\">Profissional 2030</a>, que usa la misma Horizonte vista desde afuera.",
+        "Esta formación prepara a quien administra agentes dentro de la empresa. Si lo que quieres es ayudar a otras empresas a adoptar IA con seguridad, como consultor, auditor, mentor o entrenador, el camino siguiente es el <a href=\"https://eventos.ARCKHÉ.pro/prof2030/\">Profissional 2030</a>, que usa la misma Horizonte vista desde afuera.",
         "El video de abajo es opcional: muestra por qué construir agentes deja de bastar y qué aprender para trabajar como consultor en 2027."
       ]
     },
@@ -515,7 +515,7 @@
       "tipo": "texto",
       "titulo": "Certificación",
       "paragrafos": [
-        "Certificación INEMA de calificación \"Gestor de IA\", próximamente en cert.inema.pro. No es una certificación profesional regulada.",
+        "Certificación ARCKHÉ de calificación \"Gestor de IA\", próximamente en cert.ARCKHÉ.pro. No es una certificación profesional regulada.",
         "Este es el curso G5, el cierre de la Formación Gestión de IA 2027. Los otros cursos tratan de la empresa agéntica (G0), de las personas (G1), de los procesos (G2), de los agentes (G3) y de los recursos (G4). La rúbrica final de esta clase junta las entregas de todos."
       ]
     },
@@ -525,17 +525,17 @@
       "links": [
         {
           "t": "Gestoria: abrir el laboratorio de gestión",
-          "href": "https://inematds.github.io/gestoria/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         },
         {
           "t": "Gestoria: guía de uso, del primer proceso a la mejora documentada",
-          "href": "https://inematds.github.io/gestoria/guia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "arquivo"
         },
         {
           "t": "Profissional 2030: ayudar a otras empresas a adoptar IA con seguridad",
-          "href": "https://eventos.inema.pro/prof2030/",
+          "href": "https://eventos.ARCKHÉ.pro/prof2030/",
           "icone": "alvo"
         }
       ]
