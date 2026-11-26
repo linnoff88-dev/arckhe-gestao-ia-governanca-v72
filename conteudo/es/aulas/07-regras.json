@@ -83,7 +83,7 @@
           "titulo": "A quién se aplica",
           "sub": "Horizonte no vende en Europa",
           "texto": [
-            "La fecha del 02/12/2027 rige para quien vende o usa IA en el mercado europeo. Horizonte vende en el interior de São Paulo: hoy, no se aplica. Escribe eso en la línea de tiempo, con el motivo, en lugar de borrar el punto.",
+            "La fecha del 02/12/2027 rige para quien vende o usa IA en el mercado europeo. Horizonte vende en el interior de Sêo Paulo: hoy, no se aplica. Escribe eso en la línea de tiempo, con el motivo, en lugar de borrar el punto.",
             "Si un día la empresa vende al exterior, el ítem cambia de columna. Por eso queda registrado."
           ],
           "exemplo": {
@@ -191,7 +191,7 @@
           "explica": "Lo que fue informado por la prensa entra para darle seguimiento, con la fuente y la fecha de la noticia, pero nunca como una regla que obliga."
         },
         {
-          "p": "Horizonte solo vende en el interior de São Paulo. ¿Qué hacer con el ítem del EU AI Act?",
+          "p": "Horizonte solo vende en el interior de Sêo Paulo. ¿Qué hacer con el ítem del EU AI Act?",
           "opcoes": [
             "Borrarlo de la línea de tiempo, porque no se aplica a la empresa",
             "Tratar como obligación, por precaución, hasta que el área jurídica opine",

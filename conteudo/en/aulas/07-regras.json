@@ -83,7 +83,7 @@
           "titulo": "Who it applies to",
           "sub": "Horizonte doesn't sell in Europe",
           "texto": [
-            "The 02/12/2027 date applies to anyone who sells or uses AI in the European market. Horizonte sells in the interior of São Paulo: today, it doesn't apply. Write that on the timeline, with the reason, instead of deleting the item.",
+            "The 02/12/2027 date applies to anyone who sells or uses AI in the European market. Horizonte sells in the interior of Sêo Paulo: today, it doesn't apply. Write that on the timeline, with the reason, instead of deleting the item.",
             "If the company ever sells abroad, the item changes columns. That's why it stays on record."
           ],
           "exemplo": {
@@ -191,7 +191,7 @@
           "explica": "What was reported goes in to be monitored, with the source and the date of the news, but never as a rule that obliges."
         },
         {
-          "p": "Horizonte only sells in inland São Paulo state. What should you do with the EU AI Act item?",
+          "p": "Horizonte only sells in inland Sêo Paulo state. What should you do with the EU AI Act item?",
           "opcoes": [
             "Delete it from the timeline, because it doesn't apply to the company",
             "Treat it as an obligation, to be safe, until legal weighs in",
