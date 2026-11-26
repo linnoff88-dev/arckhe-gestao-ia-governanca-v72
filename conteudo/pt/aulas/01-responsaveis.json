@@ -161,7 +161,7 @@
       "tipo": "pratica",
       "titulo": "Prática",
       "sub": "A matriz da Horizonte é o treino; a do seu processo é a que vale.",
-      "fonte": "Peças do laboratório: <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">configuraçêo da Hora</a>, <a href=\"https://inematds.github.io/prof2030-lab/pecas/mcp-email/\">assistente de e-mail</a> e <a href=\"https://inematds.github.io/prof2030-lab/inventario.html\">inventário de TI</a> (F12).",
+      "fonte": "Peças do laboratório: <a href=\"https://linnoff88-dev.github.io/arckhe-/pecas/agente-whatsapp/\">configuraçêo da Hora</a>, <a href=\"https://linnoff88-dev.github.io/arckhe-/pecas/mcp-email/\">assistente de e-mail</a> e <a href=\"https://linnoff88-dev.github.io/arckhe-/inventario.html\">inventário de TI</a> (F12).",
       "exercicios": [
         {
           "id": "e1",
@@ -271,17 +271,17 @@
       "links": [
         {
           "t": "Caderno contábil e financeiro: quem lança nêo aprova",
-          "href": "https://inematds.github.io/arquiteto-agentes-contabil/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/",
           "icone": "lista"
         },
         {
           "t": "Caderno de advocacia: o agente prepara, o advogado assina",
-          "href": "https://inematds.github.io/arquiteto-agentes-advocacia/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/",
           "icone": "arquivo"
         },
         {
           "t": "Caderno de saúde: o que fica fora do alcance do agente",
-          "href": "https://inematds.github.io/arquiteto-agentes-saude/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/",
           "icone": "escudo"
         }
       ]
